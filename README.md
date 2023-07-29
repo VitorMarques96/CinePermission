@@ -1,2 +1,2 @@
 # CinePermission
-Exemplo de software desenvolvido em Python.
+Do you have permission to go to cine alone?
